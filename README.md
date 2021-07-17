@@ -7,6 +7,8 @@ My website: https://tecknologg.website
 
 Note: Not tested yet, use at your own risk
 
+Datasheet: https://datasheet.lcsc.com/lcsc/2107142047_Ai-Thinker-ESP32-C3U-2M_C2830868.pdf
+
 # PCB Footprint 
 
 
